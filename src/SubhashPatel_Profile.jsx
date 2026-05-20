@@ -510,7 +510,7 @@ export default function SubhashProfile() {
 
   const SOCIALS = [
     { cls:"insta",    href:"https://www.instagram.com/subh_patel_27/",             Icon:IgIcon, platform:"Instagram", handle:"@subh_patel_27",  cta:"Follow my work"  },
-    { cls:"whatsapp", href:"https://wa.me/14372265349",                             Icon:WaIcon, platform:"WhatsApp",  handle:"+1 437 226 5349", cta:"Message me now"  },
+    { cls:"whatsapp", href:"https://wa.me/14372265349",                             Icon:WaIcon, platform:"WhatsApp",  handle:"@Subhash Patel", cta:"Message me now"  },
     { cls:"linkedin", href:"https://www.linkedin.com/in/subhash-patel-226410223/", Icon:LiIcon, platform:"LinkedIn",  handle:"Subhash Patel",   cta:"Connect with me" },
   ];
 
